@@ -1,0 +1,8 @@
+C:\Kalyan\Pacman\Pacman\obj\Debug\PacmanSimulator.PacmanPlay.resources
+C:\Kalyan\Pacman\Pacman\obj\Debug\PacmanSimulator.csproj.GenerateResource.Cache
+C:\Kalyan\Pacman\Pacman\bin\Debug\PacmanSimulator.exe.config
+C:\Kalyan\Pacman\Pacman\bin\Debug\PacmanSimulator.exe
+C:\Kalyan\Pacman\Pacman\bin\Debug\PacmanSimulator.pdb
+C:\Kalyan\Pacman\Pacman\obj\Debug\PacmanSimulator.Properties.Resources.resources
+C:\Kalyan\Pacman\Pacman\obj\Debug\PacmanSimulator.exe
+C:\Kalyan\Pacman\Pacman\obj\Debug\PacmanSimulator.pdb

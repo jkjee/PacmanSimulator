@@ -1,0 +1,10 @@
+C:\Kalyan\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Kalyan\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Kalyan\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Kalyan\Pacman\Pacman\obj\Debug\Pacman.csprojResolveAssemblyReference.cache
+C:\Kalyan\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Kalyan\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.Cache
+C:\Kalyan\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Kalyan\Pacman\Pacman\obj\Debug\Pacman.pdb
+C:\Kalyan\Pacman\Pacman\obj\Debug\Pacman.Pacman.resources
+C:\Kalyan\Pacman\Pacman\obj\Debug\Pacman.PacmanPlay.resources
